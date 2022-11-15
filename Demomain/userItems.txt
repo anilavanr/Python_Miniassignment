@@ -1,0 +1,12 @@
+Cast: John
+Length: 1hr 20 mins
+Director: Moon F.
+Admin Rating: 5/10
+Language: English
+Timings: 
+Number of Shows in a day: 5
+First Show: 8 AM
+Interval Time: 15 mins
+Gap Between Shows: 30 mins
+type of movie: Horror
+Title: PES
